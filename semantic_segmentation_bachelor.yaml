@@ -1,0 +1,6 @@
+name: semantic_segment_bachelor
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /home/halas/anaconda3/envs/semantic_segment_bachelor
